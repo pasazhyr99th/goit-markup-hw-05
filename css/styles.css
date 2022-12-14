@@ -72,7 +72,6 @@ ul {
 .backdrop.is-hidden {
     opacity: 0;
     pointer-events: none;
-    /* visibility: ;  ?????????? Ні у Репети, ні в конспекті цього немає */
 }
 
 .backdrop.is-hidden .modal {
